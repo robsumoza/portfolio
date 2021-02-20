@@ -36,7 +36,7 @@ const About = () => {
                 Universidad de Carabobo
               </a>
               &nbsp;as Electrical Engineer, I started working on software development and then it
-              becomes into my lifestyle.
+              turned into my lifestyle.
             </p>
             <br />
             <p>Here are a few technologies I&apos;ve been working with recently:</p>
