@@ -236,8 +236,8 @@ export const StyledProject = styled.div`
 `;
 
 export const StyledProjectImage = styled.img`
-  object-fit: cover;
-  object-position: center center;
+  // object-fit: cover;
+  // object-position: center center;
   max-width: 100%;
   border-radius: ${(props) => props.theme.borderRadius};
   // mix-blend-mode: multiply;

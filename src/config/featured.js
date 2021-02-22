@@ -1,14 +1,12 @@
 /* eslint-disable max-len */
 module.exports = [
-  // {
-  //   title: 'React Iconly',
-  //   cover: 'https://jrgarciadev.s3.amazonaws.com/React+Iconly.png',
-  //   github: 'https://github.com/jrgarciadev/react-iconly',
-  //   external: 'https://react-iconly.jrgarciadev.com',
-  //   descriptionHtml:
-  //     'Beautiful and pixel perfect React Icon Library, <a target="_blank" rel="noreferrer" href="https://https://ui8.net/piqodesign/products/iconly-essential-icons">Iconly</a> is one of the options that is being used by designers and developers today, so I decided to create a library for React / Next.js / Gatsby that facilitates its use and that also allows us to customize any icon according to our needs.  <a target="_blank" rel="noreferrer" href="https://dev.to/jrgarciadev/beautiful-and-pixel-perfect-react-icon-library-2fnd">Blog Post</a>',
-  //   techs: ['React', 'Library', 'Icons'],
-  // },
+  {
+    title: 'Container App',
+    cover: 'https://robsumoza.s3.amazonaws.com/Container.jpg',
+    descriptionHtml:
+      'Web application for a container delivery company, to manage all the container orders. The analyst recieves the customers orders, address, contact info and date. Each delivery or retirement order is assigned to a truck.',
+    techs: ['Vue', 'Vuex', 'Buefy'],
+  },
   // {
   //   title: 'CargoMe',
   //   cover: 'https://jrgarciadev.s3.amazonaws.com/CargoMe.png',
