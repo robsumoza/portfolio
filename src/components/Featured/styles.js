@@ -27,6 +27,8 @@ export const StyledProjectImgWrapper = styled.div`
   @media (max-width: ${(props) => props.theme.breakpoints.md}) {
     grid-column: 1 / -1;
     height: 100%;
+    // opacity: 0.25;
+    grid-row: auto;
   }
 
   a {

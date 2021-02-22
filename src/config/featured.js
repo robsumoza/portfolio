@@ -1,11 +1,27 @@
 /* eslint-disable max-len */
 module.exports = [
   {
+    title: 'FBASE.Tv App',
+    cover: 'https://robsumoza.s3.amazonaws.com/fbasetv-app.jpg',
+    external: 'https://futbolbase.tv',
+    descriptionHtml:
+      'Mobile and web application to live the youth soccer, watch matches and trainings in live streams. Check clubs, teams and players profile. Follow your favorite leagues and tournaments in real time and full access to statics.',
+    techs: ['Vue.js', 'Vuex', 'Ionic', 'Capacitor'],
+  },
+  {
+    title: 'FBASE.Tv Backoffice',
+    cover: 'https://robsumoza.s3.amazonaws.com/fbasetv-backoffice.jpg',
+    external: 'https://futbolbase.tv',
+    descriptionHtml:
+      'Administration panel to manage FBASE.Tv data and process matches, trainings, clubs, teams, users, subscriptions, etc.',
+    techs: ['Vue.js', 'Vuex', 'Vuetify'],
+  },
+  {
     title: 'Container App',
     cover: 'https://robsumoza.s3.amazonaws.com/Container.jpg',
     descriptionHtml:
       'Web application for a container delivery company, to manage all the container orders. The analyst recieves the customers orders, address, contact info and date. Each delivery or retirement order is assigned to a truck.',
-    techs: ['Vue', 'Vuex', 'Buefy'],
+    techs: ['Vue.js', 'Vuex', 'Buefy'],
   },
   // {
   //   title: 'CargoMe',
