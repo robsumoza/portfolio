@@ -6,7 +6,7 @@ module.exports = [
     external: 'https://futbolbase.tv',
     descriptionHtml:
       'Mobile and web application to live the youth soccer, watch matches and trainings in live streams. Check clubs, teams and players profile. Follow your favorite leagues and tournaments in real time and full access to statics.',
-    techs: ['Vue.js', 'Vuex', 'Ionic', 'Capacitor', 'Nodejs', 'MongoDB'],
+    techs: ['Vue.js', 'Vuex', 'Ionic', 'Nodejs', 'MongoDB'],
   },
   {
     title: 'FBASE.Tv Backoffice',
