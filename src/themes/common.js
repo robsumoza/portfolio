@@ -9,7 +9,7 @@ export default {
     fontMono: 'Space Mono, SF Mono, Fira Code, Fira Mono, Roboto Mono, monospace',
   },
   brand: {
-    primary: '#f54336',
+    primary: '#e55137',
     secondary: '#e55137',
     accent: '#5FC921',
   },
