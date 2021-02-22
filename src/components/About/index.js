@@ -24,7 +24,7 @@ const About = () => {
             <p>Hello! I&apos;m Roberto, a Software Enginner based in Caracas, Venezuela.</p>
             <br />
             <p>
-              I enjoy creating designing and creating software, whether that be websites,
+              I enjoy creating and designing software, whether that be websites,
               applications, or anything in between. My goal is to always build scalable products
               that provide performant experiences.
             </p>
